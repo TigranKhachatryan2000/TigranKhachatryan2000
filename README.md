@@ -5,7 +5,7 @@
 - 🧑‍💻 I am currently learning everything 📚
 - 🤝 I am looking to collaborate with other developers 👍
 - 🥅 2022 Goals: Learn more technologies ↗️
-- 💻 2023 Goals: Frontend Engineer at "Softconstruct" ↗️
+- 💻 2022 Goals: Frontend Engineer at "Softconstruct" ↗️
 
 ---
 
