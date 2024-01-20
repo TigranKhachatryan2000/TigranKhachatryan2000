@@ -1,5 +1,9 @@
 ## Hi there, I am Tigran 👋
 
+### Abount me
+
+Experienced Front end developer with a proven track record of turning innovative ideas into robust, scalable software solutions, I bring a unique blend of technical expertise and creative problem-solving to every project. My commitment to excellence, coupled with a deep passion for coding, has driven my success in delivering high-quality software that meets and exceeds client expectations.
+
 ### I like Programming!! 🙂
 
 - 🧑‍💻 I am currently learning everything 📚
