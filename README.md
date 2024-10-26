@@ -58,7 +58,7 @@ Experienced Front end developer with a proven track record of turning innovative
 [Git]: https://github.com/topics/git
 [GitHub]: https://github.com/topics/github
 [Terminal]: https://github.com/topics/terminal
-[Instagram]: https://www.instagram.com/tigrankhachatryan___/
+[Instagram]: https://www.instagram.com/tigrankhachatrian___/
 [Facebook]: https://www.facebook.com/profile.php?id=100009005480995/
 [Linux]: https://github.com/topics/linux
 [Linkedin]: https://www.linkedin.com/in/khachatryantigran/
